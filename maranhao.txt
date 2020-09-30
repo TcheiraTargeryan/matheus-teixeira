@@ -1,0 +1,7 @@
+Municipio,Longitude,Latitude
+Alcantara,-44.41472,-2.40889
+Icatu,-44.06583,-2.77583
+Paco do Lumiar,-44.1075,-2.53222
+Raposa,-44.10333,-2,42306
+Sao Jose de Ribamar,-44.05417,-2.56194
+Sao Luis,-44.30278,-2.56194
