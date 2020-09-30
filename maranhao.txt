@@ -1,4 +1,4 @@
-Municipio,Longitude,Latitude
+Municipio,Latitude,Longitude
 Alcantara,-44.41472,-2.40889
 Icatu,-44.06583,-2.77583
 Paco do Lumiar,-44.1075,-2.53222
